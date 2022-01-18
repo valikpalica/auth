@@ -1,0 +1,6 @@
+{
+    "url":"http://localhost:8080",
+    "PathsApi":{
+        "type_anceta":"/type_anceta"
+    }
+}
