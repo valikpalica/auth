@@ -3,7 +3,6 @@ const router = express.Router();
 const controller = require('./controller');
 const {body} = require('express-validator')
 const authMiddleware = require('./middleware/tokenVerife');
-const gateway = require('./gateway/gateway');
 
 
 
